@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SavePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\courseplay.xml</Value>
+    </Setting>
+    <Setting Name="MapPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\pda_map.bmp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

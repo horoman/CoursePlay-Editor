@@ -1,0 +1,16 @@
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.exe.config
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.exe
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.pdb
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.xml
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.Form1.resources
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.Resources.resources
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.exe
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.xml
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.pdb
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.exe.manifest
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\bin\Release\CourseDrawer.application
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.exe.manifest
+D:\Users\PPml\documents\visual studio 2010\Projects\CourseDrawer\CourseDrawer\obj\x86\Release\CourseDrawer.application
